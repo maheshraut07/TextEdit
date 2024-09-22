@@ -1,9 +1,9 @@
-import React from 'react'
+import React,{useState} from 'react'
 import Navbar from './Navbar'
 import Alert from './Alert';
 import TextForm from './TextForm';
 
-const Home = () => {
+const Home = ({mode,setMode}) => {
 
   const [alert, setAlert] = useState(null);
 
