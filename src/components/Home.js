@@ -33,9 +33,7 @@ const Home = ({mode,setMode}) => {
     <>
     <Navbar title="TextEdit" mode={mode} toggleMode={toggleMode} key={new Date()} />
     <Alert alert={alert}/>
-    <div className="container my-3">
-       <TextForm showAlert={showAlert} heading="Try TextEdit - word counter, character counter, remove extra spaces" mode={mode}/>
-    </div>
+    <TextForm showAlert={showAlert} heading="Try TextEdit - word counter, character counter, remove extra spaces" mode={mode}/>
     </> 
   )
 }
