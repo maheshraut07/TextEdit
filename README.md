@@ -18,14 +18,6 @@ TextEdit is a simple and powerful web application made with **React** and **Boot
 - **Word Count**: Get the total word count and character count of the text.
 - **Dark Mode**: Toggle between light and dark modes for better readability.
 
-## Screenshots
-
-![TextEdit App Screenshot](D:\Web Dev\Personal Projects\TextEdit\screenshots\Screenshot (1688).png)
-![TextEdit App Screenshot](D:\Web Dev\Personal Projects\TextEdit\screenshots\Screenshot (1689).png)
-
-
-![TextEdit App Screenshot](./screenshots/Screenshot (1688).png)
-![TextEdit App Screenshot](./screenshots/Screenshot (1689).png)
 
 ## Live Demo
 
